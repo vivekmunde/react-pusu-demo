@@ -1,5 +1,5 @@
 import React from 'react';
-import { withPublish } from 'react-pub-sub';
+import { withPublish } from 'react-pusu';
 import publication from './publication';
 
 const PublisherButton = ({ publish }) => (

@@ -1,5 +1,5 @@
 import React from 'react';
-import { withSubscribe } from 'react-pub-sub';
+import { withSubscribe } from 'react-pusu';
 import publication from './publication';
 
 const getDummyData = () => {

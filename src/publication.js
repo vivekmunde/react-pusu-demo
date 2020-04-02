@@ -1,4 +1,4 @@
-import { createPublication } from 'react-pub-sub';
+import { createPublication } from 'react-pusu';
 
 const publication = () => {
     return createPublication('RefreshData');

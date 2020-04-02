@@ -33,7 +33,7 @@
   "dependencies": {
     "react": "^16.13.1",
     "react-dom": "^16.13.1",
-    "react-pub-sub": "git://github.com/vivekmunde/react-pub-sub.git#develop",
+    "react-pusu": "^1.0.0",
     "react-router-dom": "^5.1.2"
   }
 }
