@@ -1,2 +1,2 @@
-# react-pub-sub-demo
+# react-pusu-demo
 React Publish-Subscribe Demo
